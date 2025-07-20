@@ -6,7 +6,7 @@ The projects highlight both **quantitative statistical analysis** and **qualitat
 
 ## About Me
 
-I am transitioning into **data analytics** with a background in hospitality and tourism management.  
+Hello! My name is Haneul Kim. I am transitioning into **data analytics** with a background in International Tourism and Hotel Management :) 
 My projects demonstrate:
 
 - **Hands-on SQL and Excel analysis**  
@@ -18,7 +18,7 @@ My projects demonstrate:
 
 ## Projects
 
-### 📊 1️⃣ Residents' Attitudes Towards Tourism Development (Quantitative Analysis)
+### 1. Residents' Attitudes Towards Tourism Development (Quantitative Analysis)
 
 **Objective:**  
 Analyze residents' perceptions of tourism development in Angourie, NSW, using statistical methods.
@@ -38,7 +38,7 @@ Analyze residents' perceptions of tourism development in Angourie, NSW, using st
 
 ---
 
-### 🔍 2️⃣ Gender Differences in Travel Planning (Qualitative Analysis)
+### 2. Gender Differences in Travel Planning (Qualitative Analysis)
 
 **Objective:**  
 Explore how male and female university students differ in their travel planning behaviours.
