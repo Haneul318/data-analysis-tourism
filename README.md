@@ -85,7 +85,7 @@ These projects are designed to show **real-world data analytics capabilities** b
 ## Contact
 
 **Haneul Kim**  
-[LinkedIn Profile] (www.linkedin.com/in/haneul-kim-5a7572371) | Email: haneulkim12142gmail.com
+[LinkedIn Profile] (www.linkedin.com/in/haneul-kim-5a7572371) | Email: (haneulkim1214@gmail.com)
 
 ---
 
