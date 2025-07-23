@@ -5,7 +5,7 @@ Quantitative analysis of Angourie, NSW residents' attitudes towards tourism deve
 
 ## Method
 - **Survey sample:** N=285 residents  
-- **Analysis:** Descriptive statistics, t-tests, correlation analysis
+- **Analysis:** Descriptive statistics, t-tests, correlation analysis.
 
 ## Key Findings
 - **Short-term residents:** Focus on economic benefits  
