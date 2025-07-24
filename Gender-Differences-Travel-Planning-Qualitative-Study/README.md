@@ -1,7 +1,7 @@
 # Gender Differences in Travel Planning (Qualitative Study)
 
 ## Overview
-This project analyzes gender differences in travel planning behaviours among university students using qualitative methods.
+This project analyzes gender differences in travel planning behaviours among university students using qualitative methods
 
 ## Method
 - **Participants:** University students (18–25), tourism-related majors
