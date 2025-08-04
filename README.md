@@ -11,7 +11,7 @@ My projects demonstrate:
 
 - **Hands-on SQL and Excel analysis**  
 - **Survey data interpretation and statistical testing**  
-- **Qualitative coding using open, axial, and selective techniques**  
+- **Qualitative coding using open, axial, and selective techniques**  .
 - **Business insights generation with actionable recommendations**
 
 ---
