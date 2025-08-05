@@ -9,7 +9,7 @@ Quantitative analysis of Angourie, NSW residents' attitudes towards tourism deve
 
 ## Key Findings
 - **Short-term residents:** Focus on economic benefits  
-- **Long-term residents:** Focus on cultural preservation
+- **Long-term residents:** Focus on cultural preservation/
 
 ## Files
 - `Residents_Tourism_Attitudes_Quantitative_Report.pdf` (Full report)
